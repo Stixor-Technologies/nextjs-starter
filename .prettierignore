@@ -20,6 +20,9 @@ tsconfig.json
 next.config.ts
 postcss.config.mjs
 eslint.config.mjs
+.editorconfig
+.eslintrc
+next-env.d.ts
 
 # Documentation
 README.md
@@ -50,3 +53,5 @@ yarn-error.log*
 # Other
 *.tsbuildinfo
 .vercel
+.prettierrc
+pull_request_template.md
